@@ -1,0 +1,31 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Alertas en las Elecciones 2013 de Honduras</title>
+</head>
+<body>
+<style>
+<!--
+	#container {
+		width: 960px;
+		margin: 0 auto;
+		text-align: center
+	}
+
+	.inner {
+		text-align: left;
+	}
+-->
+</style>
+<div id="container">
+		<div class="inner">
+		<h1>Alertas en las Elecciones 2013 de Honduras</h1>
+		<h3>Correo elecctronico para cualquier irreguralidad al <strong style="color:blue;">alertaselecciones@hushmail.com</strong>
+		</h3>
+		<p>o twittea el hashtag <strong style="color:red;">#eleccioneshonduras</strong></p>
+		<a class="twitter-timeline" href="https://twitter.com/search?q=%23eleccioneshonduras" data-widget-id="404332972381184000">Tweets sobre "#eleccioneshonduras"</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+</div>	
+</body>
+</html>
